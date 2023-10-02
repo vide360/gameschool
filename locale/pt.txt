@@ -1,0 +1,26 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_E440C1B4_F240_FFAB_41BE_46E3673930AB.mp3Url = media/audio_E7CC1336_F241_3C97_41EC_DAD1C0446608_pt.mp3
+
+### Title
+panorama_FE7B43FB_F241_239D_41DA_40137FF084E4.label = 01
+panorama_E8CCC292_F2C7_1C6F_41B6_50AB6E4A48C5.label = Recepção
+panorama_F89003E0_F241_23AB_41BA_F303D4BAA3C5.label = sl maker
+panorama_F891C254_F241_1CEB_41E8_6278EE7C091C.label = sl recração02
+panorama_F89310E0_F241_7DAB_41BF_1A0A6C5639D8.label = sl recreação01
+
+## Skin
+
+### Image
+Image_E87151A8_F2C3_1FBB_41B1_ACD562047EFD.url = skin/Image_E87151A8_F2C3_1FBB_41B1_ACD562047EFD_pt.png
+Image_E8B4CB09_F2C1_EC7D_41E5_87F49D273AE5.url = skin/Image_E8B4CB09_F2C1_EC7D_41E5_87F49D273AE5_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = game school
