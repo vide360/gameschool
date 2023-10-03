@@ -1,7 +1,8 @@
 {
- "display": "fullscreen",
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "name": "game school",
+ "display": "fullscreen",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "background_color": "#FFFFFF"
 }
